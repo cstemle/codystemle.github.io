@@ -4,6 +4,8 @@
 This repository contains 3 projects and a personal overview.
 
 ### Projects:
-   -Eye Movement Simulation
-   -Bus Tracker Simulaion
-   -Pacman Ghost Simulation
+<ul>
+   <li>Eye Movement Simulation</li>
+   <li>Bus Tracker Simulation</li>
+   <li>Pacman Ghost Simulation</li>
+</ul>
